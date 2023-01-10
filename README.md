@@ -15,7 +15,7 @@ GOF[*](https://en.wikipedia.org/wiki/Design_Patterns) design patterns in Swift p
 - [Facade](Structural%20Patterns/Facade.playground/Contents.swift)
 - [Proxy](Structural%20Patterns/Proxy.playground/Contents.swift)
 - [Decorator](Structural%20Patterns/Decorator.playground/Contents.swift)
-- Bridge
+- [Bridge](Structural%20Patterns/Bridge.playground/Contents.swift)
 
 ### Behavioral Patterns
 - Strategy
