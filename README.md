@@ -18,7 +18,7 @@ GOF[*](https://en.wikipedia.org/wiki/Design_Patterns) design patterns in Swift p
 - [Bridge](Structural%20Patterns/Bridge.playground/Contents.swift)
 
 ### Behavioral Patterns
-- Strategy
+- [Strategy](Behavioral%20Patterns/Strategy.playground/Contents.swift)
 - Command
 - Iterator
 - Template Method
