@@ -19,8 +19,8 @@ GOF[*](https://en.wikipedia.org/wiki/Design_Patterns) design patterns in Swift p
 
 ### Behavioral Patterns
 - [Strategy](Behavioral%20Patterns/Strategy.playground/Contents.swift)
-- Command
-- Iterator
+- [Command](Behavioral%20Patterns/Command.playground/Contents.swift)
+- [Iterator](Behavioral%20Patterns/Iterator.playground/Contents.swift)
 - Template Method
 - Observer
 - Memento
