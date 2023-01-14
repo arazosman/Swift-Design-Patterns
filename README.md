@@ -23,8 +23,8 @@ GOF[*](https://en.wikipedia.org/wiki/Design_Patterns) design patterns in Swift p
 - [Iterator](Behavioral%20Patterns/Iterator.playground/Contents.swift)
 - [Template Method](Behavioral%20Patterns/TemplateMethod.playground/Contents.swift)
 - [Observer](Behavioral%20Patterns/Observer.playground/Contents.swift)
-- Memento
-- Mediator
+- [Memento](Behavioral%20Patterns/Memento.playground/Contents.swift)
+- [Mediator](Behavioral%20Patterns/Mediator.playground/Contents.swift)
 - Chain of Responsibility
 - Visitor
 - State
